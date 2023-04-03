@@ -1,0 +1,15 @@
+{
+    "files.autoSave": "onFocusChange",
+    "background.customImages": [
+        "https://www.kaorinusantara.or.id/wp-content/uploads/2022/12/320368629_1330748294356931_6417602113821568322_n-696x392.jpg",
+        "https://blogger.googleusercontent.com/img/a/AVvXsEjnYAYsKyDtCsPf2tpWqrejfe5qTksP6jguG2v4cfIPm7aqK0TiZyk1uN8QminCf3dKSx58L43HxRoYQ6xAcy7LDHHZdo5zHWc_tWv1g5dSMWN7wqftbll4dy3G6h4nqW8x6-gztYsv3MygUn7jhhGM0BBpeoYLmB3cVZpV34bs91USUVkirzwaAg=s1020",
+        "https://kawanpuan.com/wp-content/uploads/2022/10/SPY-X-Family-Season-2.jpg",
+        "https://www.sinergianews.com/uploads/large/918930da6e9ee27ceec040a80eba19e9.jpg"
+    ],
+    "background.fullscreen": {
+        "image": "https://kawanpuan.com/wp-content/uploads/2022/10/SPY-X-Family-Season-2.jpg",
+        "opacity": 0.9,
+        "size": "cover",
+        "interval": 4,
+    }
+}

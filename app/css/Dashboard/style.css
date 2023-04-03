@@ -1,0 +1,87 @@
+body {
+    height: 100vh;
+    background: linear-gradient(
+        rgba(200, 200, 200, 1),
+        rgba(255, 200, 200, 0.88)
+    );
+    background-size: cover;
+    overflow: hidden;
+    overflow-x: hidden;
+}
+
+#smalls {
+    width: 18rem;
+    right: 0rem;
+    left: 0.5rem;
+}
+
+#box-border {
+    left: 0px;
+    height: 92%;
+    background-color: whitesmoke;
+    background-blend-mode: darken;
+
+    border-top: 1px;
+    border-right: 1px;
+    border-bottom: 1px;
+    border-left: 0px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 3px;
+
+    margin-bottom: 2px;
+}
+
+.fix-col-md {
+    width: 21.15rem;
+}
+
+.active:hover {
+    cursor: pointer;
+}
+
+#dropbtn {
+    background-color: whitesmoke;
+    color: black;
+    padding: 16px;
+    font-size: 12px;
+    font-weight: 500;
+    border: 1px solid transparent;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+#dropbtn:hover,
+#dropbtn:focus {
+    background-color: whitesmoke;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 180px;
+    overflow: auto;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown a:hover {
+    background-color: #ddd;
+}
+
+.show {
+    display: block;
+}
